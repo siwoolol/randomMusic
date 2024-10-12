@@ -1,7 +1,7 @@
-body {
-    background-color: #494D5F;
+* {
+    font-family: "Poppins", sans-serif;
 }
 
-.Logo {
-    width: 100px;
+body {
+    background-color: #101820;
 }
