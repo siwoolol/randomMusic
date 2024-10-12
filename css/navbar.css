@@ -33,7 +33,6 @@
 }
 
 .navbar ul li a:hover {
-    background-color: #008cff;
+    background-color: #000000;
     border-radius: 25px;
-    opacity: 50%;
 }
