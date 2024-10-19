@@ -5,3 +5,18 @@
 body {
     background-color: #101820;
 }
+
+.main {
+    font-size: 50pt;
+    color: ghostwhite;
+    text-align: center;
+    margin: 0;
+    margin-top: 150pt;
+}
+
+.sub {
+    font-size: 25pt;
+    color: ghostwhite;
+    text-align: center;
+    margin: 0;
+}
