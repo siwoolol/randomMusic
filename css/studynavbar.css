@@ -1,0 +1,38 @@
+.navbar {
+    display: block;
+    overflow: hidden;
+    justify-content: space-between;
+    align-items: center;
+    background-color: goldenrod;
+    padding: 10px 20px;
+    border-radius: 25px;
+}
+
+.navbar .brand {
+    width: 216pt;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar ul li {
+    margin-left: 20px;
+    display: inline;
+    float: left;
+}
+
+.navbar ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 7px;
+    border-radius: 5px;
+    transition: all 0.75s ease;
+}
+
+.navbar ul li a:hover {
+    background-color: #000000;
+    border-radius: 25px;
+}
